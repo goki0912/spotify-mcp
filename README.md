@@ -1,7 +1,7 @@
 ## how to use
 https://developer.spotify.com/dashboard からアプリを作成する
 
-callback urlを http://127.0.0.1:8888/callback に設定
+callback urlを http://127.0.0.1:8888/callback に設定(localhostは使えない)
 
 client id と client secret を取得
 
