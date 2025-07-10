@@ -22,6 +22,8 @@ client_secret = os.getenv("SPOTIPY_CLIENT_SECRET")
 redirect_uri = "http://127.0.0.1:8888/callback"
 
 SCOPE = "user-modify-playback-state user-read-playback-state user-library-read"
+
+# ここはマジで適当。
 EASY_GENRES = [
     "ambient",
     "chill-out",
